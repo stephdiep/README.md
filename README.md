@@ -1,6 +1,6 @@
 ### Hello! 👋
 <div style="text-align:center">
-  <p>My name is Stephanie and I am a junior fullstack developer seeking an opportunity to grow my coding skills.</p><br>
+  <p>My name is Stephanie and I am a junior fullstack developer.</p><br>
   <p>🖼️ Check out my <a href="https://sthyma.github.io/">portfolio</a></p>
   <p>👩‍💼 Checkout my <a href="https://www.linkedin.com/in/diepstephanie">LinkedIn</a></p>
   <br>
