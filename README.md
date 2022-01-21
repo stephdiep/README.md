@@ -9,5 +9,3 @@ You might know me from teaching SwiftUI and React in <a href="https://www.youtub
   - Chat application with real-time updates using Firestore: https://www.youtube.com/watch?v=Zz9XQy8PRpQ
   
   Browse more videos <a href="https://www.youtube.com/c/DesignCodeTeam">here</a>!
-
-## Connect with me!
