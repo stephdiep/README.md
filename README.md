@@ -1,7 +1,7 @@
 # Hey there! 👋🏻
 <div style="text-align:center">
   <p>My name is Stephanie and I'm an iOS developer.</p>
-  You might know me from teaching SwiftUI and React in <a href="https://www.youtube.com/c/DesignCodeTeam">Design+Code's Youtube channel</a> or on <a href="designcode.io">designcode.io</a>.
+  You might know me from teaching SwiftUI and React in <a href="https://www.youtube.com/c/DesignCodeTeam">Design+Code's Youtube channel</a> or on <a href="https://designcode.io">designcode.io</a>.
   
   ## Learn SwiftUI and build apps from scratch here 👇🏻
   - Weather API with real-time weather conditions: https://www.youtube.com/watch?v=X2W9MPjrIbk
